@@ -18,4 +18,5 @@ Lista as imagens referentes ao argumento que você pesquisou.
 Entre vários benefícios do uso do container, os principais são: Reduzir custos, aumentar a velocidade, economizar tempo, tem uma maior segurança a velocidade também é dos pontos.
 
 5. No arquivo README.md, inclua uma seção com as principais dificuldades que você enfrentou para concluir este roteiro.
+
 Os recursos computacionais e a internet.
