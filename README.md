@@ -3,13 +3,11 @@
 2. Execute e explique a execução dos seguintes comandos: 
 a. docker container run tomcat
 
-Criar uma imagem
-
-Vai baixar a imagem e definir um usuário que tenha acesso ao gerenciador.
+Criar um container tomcat com java.
 
 b. docker container ls
 
-Listar as imagens disponíveis
+Listar os container disponíveis.
 
 c. docker image ls 
 
